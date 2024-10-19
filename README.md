@@ -1,8 +1,6 @@
 ## EXPERIMENT 05: IMPLEMENTATION OF KALMAN FILTER
-### NAME: Archana Priya .J
-### REGISTER NO: 212221230007
-### DATE: 19.09.2024
-
+#### NAME: Archana Priya .J
+#### REGISTER NO: 212221230007
 ## Aim:
  To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 ## Algorithm:
